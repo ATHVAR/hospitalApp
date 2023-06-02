@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Hospitalname": "Amrita",
+    "PatientCount": "500",
+    "location": "Edappally"
+  },
+  {
+    "id": 2,
+    "Hospitalname": "Aster",
+    "PatientCount": "500",
+    "location": "kannur"
+  },
+  {
+    "id": 3,
+    "Hospitalname": "sanjeeveni",
+    "PatientCount": "200",
+    "location": "malappuram"
+  },
+  {
+    "id": 4,
+    "Hospitalname": "sunrise",
+    "PatientCount": "300",
+    "location": "kozhikode"
+  }
+]

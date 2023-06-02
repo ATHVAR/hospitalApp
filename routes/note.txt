@@ -1,0 +1,12 @@
+1. GET operation:in postman, select GET and url- http://localhost:6000/api then select send
+2. POST opeartion, select POST in postman,then in body give(this data is optionally given)  
+        {"id": 6,
+        "Hospitalname": "TMM",
+        "PatientCount": "200",
+        "location": "Tvla"
+    }
+    3. PUT operation, select PUT and URL-http://localhost:6000/api/1
+    (give any id number to update the details in that id)
+
+    4. DELETE operation, select Delete option, http://localhost:6000/api/id number
+    (give any id number to delte the details in that id)
